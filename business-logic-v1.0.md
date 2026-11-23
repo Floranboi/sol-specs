@@ -1,6 +1,6 @@
 # Business Logic
 
-> Development of a/an `<Platform>` `<App/Software Type>` using `<Tech Stack>` for `<Userbase>`
+> Development of a Web-based Game Server Management Portal using Node.js for Online Gaming Communities
 
 - Allowed Platforms: Web, Android
 
